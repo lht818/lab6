@@ -1,0 +1,60 @@
+class Account
+{
+   int accountNumber;
+   boolean isStudent;
+   double feeShipping;
+   String male;
+   String female;
+public int getAccount(){
+
+}
+public void setAccount(int aa){
+
+}
+public double shippping(){
+
+}
+}
+
+class Customer
+{
+    isA Account;
+String name;
+  String address;
+  int age;
+  boolean sex;
+public String getname(){
+
+}
+public void setname(String n){
+
+}
+public String getaddress(){
+
+}
+public void setaddress(String add){
+
+}
+public int getage(){
+
+}
+}
+
+class Order
+{
+    isA Account;
+int code;
+  int quantity;
+public int getcode(){
+
+}
+public int getnumber(){
+
+}
+public void setnumber(int n){
+
+}
+public void setcode(int c){
+
+}
+}
